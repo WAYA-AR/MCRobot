@@ -13,7 +13,7 @@ int pin2Moteur1 = 8; // pin de commande moteur 1
 int pinPMoteur1 = 11; // pin PWM moteur 1
 int pin1Moteur2 = 2; // pin de commande moteur 2
 int pin2Moteur2 = 4; // pin de commande moteur 2
-int pinPMoteur2 = 5; // pin PWM moteur 2
+int pinPMoteur2 = 5; // pin PWM moteur 2 
 
 int pinWarning = 6;    // pin Warning
 
