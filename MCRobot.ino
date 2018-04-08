@@ -15,7 +15,7 @@ int pin1Moteur2 = 2; // pin de commande moteur 2
 int pin2Moteur2 = 4; // pin de commande moteur 2
 int pinPMoteur2 = 5; // pin PWM moteur 2 
 
-int pinWarning = 6;    // pin Warning
+int pinWarning = 7;    // pin Warning
 
 int pinTrig  = 9; // Broche TRIGGER
 int pinEcho  = 10;    // Broche ECHO

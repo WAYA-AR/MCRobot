@@ -47,7 +47,7 @@ void MCMotorBluetooth::init(
   int _pin2Moteur2,
   int _pinPMoteur2) {
   pin1Moteur1 = _pin1Moteur1;
-  pin1Moteur1 = _pin1Moteur1;
+  pin2Moteur1 = _pin2Moteur1;
   pinPMoteur1 = _pinPMoteur1;
   pin1Moteur2 = _pin1Moteur2;
   pin2Moteur2 = _pin2Moteur2;
